@@ -1,4 +1,5 @@
 # reactGo
+[![Build Status](https://travis-ci.org/JonaC22/reactGo.svg?branch=master)](https://travis-ci.org/JonaC22/reactGo)
 
 [![Dependency Status][dep-status-img]][dep-status-link] [![devDependency Status][dev-dep-status-img]][dev-dep-status-link]
 [![Gitter][gitter-img]][gitter-link] [![npm version][npm-badge]][npm-link]
